@@ -1,16 +1,45 @@
-## Hi there 👋
+# Hi, I'm Saad Suleiman 👋
 
-<!--
-**Saad-TheAnalyst/Saad-TheAnalyst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Data Analyst | Frontend Designer | University of Ilorin Graduate
 
-Here are some ideas to get you started:
+I am a self-taught Data Analyst passionate about turning 
+raw data into meaningful insights. I specialize in Python, 
+Pandas, SQL, Power BI, Excel and Matplotlib.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tools & Technologies
+
+Python
+Pandas
+SQL
+Power BI
+Excel
+GitHub
+
+---
+
+## 📂 My Projects
+
+| Project | Tools | Link |
+|---|---|---|
+| Sales Performance Analysis | Python, Pandas, Power BI | [View](https://github.com/Saad-TheAnalyst/Sales-Analysis-Project) |
+| COVID-19 Global Data Analysis | Python, Pandas, Matplotlib | [View](https://github.com/Saad-TheAnalyst/COVID19-Data-Analysis) |
+| Nigerian Stock Market Analysis | Python, Pandas, Matplotlib | [View](https://github.com/Saad-TheAnalyst/Nigerian-Stock-Market-Analysis) |
+| HR Employee Attrition Analysis | Excel, Pivot Tables | [View](https://github.com/Saad-TheAnalyst/HR-Employee-Attrition-Analysis) |
+| Netflix Movies & TV Shows EDA | Python, Pandas, Power BI | [View](https://github.com/Saad-TheAnalyst/Netflix-Movies-TV-Shows-EDA) |
+| E-commerce Sales & Customer Analysis | Python, Pandas, Power BI | [View](https://github.com/Saad-TheAnalyst/Ecommerce-Sales-Customer-Analysis) |
+| Hospital & Healthcare BI Dashboard | Python, Pandas, Power BI | [View](https://github.com/Saad-TheAnalyst/Hospital-Healthcare-BI-Dashboard) |
+
+---
+
+## 📊 GitHub Stats
+
+Saad's GitHub Stats: Saad-TheAnalyst
+
+---
+
+## 📫 Connect With Me
+
+LinkedIn: linkedin.com/in/saad-suleiman-510676267
+Email:Saadudeen19@gmail.com
