@@ -21,17 +21,19 @@ GitHub
 
 ## 📂 My Projects
 
-| Project | Tools | Link |
-|---|---|---|
-| Sales Performance Analysis | Python, Pandas, Power BI | [View](https://github.com/Saad-TheAnalyst/Sales-Analysis-Project) |
-| COVID-19 Global Data Analysis | Python, Pandas, Matplotlib | [View](https://github.com/Saad-TheAnalyst/COVID19-Data-Analysis) |
-| Nigerian Stock Market Analysis | Python, Pandas, Matplotlib | [View](https://github.com/Saad-TheAnalyst/Nigerian-Stock-Market-Analysis) |
-| HR Employee Attrition Analysis | Excel, Pivot Tables | [View](https://github.com/Saad-TheAnalyst/HR-Employee-Attrition-Analysis) |
-| Netflix Movies & TV Shows EDA | Python, Pandas, Power BI | [View](https://github.com/Saad-TheAnalyst/Netflix-Movies-TV-Shows-EDA) |
-| E-commerce Sales & Customer Analysis | Python, Pandas, Power BI | [View](https://github.com/Saad-TheAnalyst/Ecommerce-Sales-Customer-Analysis) |
-| Hospital & Healthcare BI Dashboard | Python, Pandas, Power BI | [View](https://github.com/Saad-TheAnalyst/Hospital-Healthcare-BI-Dashboard) |
+## 📂 My Projects
 
----
+| Project | Tools | Score | Link |
+
+| African Football Analytics | Python, Pandas, Power BI | ⭐ 96/100 | [View](https://github.com/Saad-TheAnalyst/African-Football-Analytics) |
+| Nigerian Stock Market Analysis | Python, Pandas, Power BI | ⭐ 94/100 | [View](https://github.com/Saad-TheAnalyst/Nigerian-Stock-Market-Analysis) |
+| Nigerian Economy Analysis | Python, Pandas, Power BI | ⭐ 93/100 | [View](https://github.com/Saad-TheAnalyst/Nigerian-Economy-Analysis) |
+| E-commerce Sales & Customer Analysis | Python, Pandas, Power BI | ⭐ 91/100 | [View](https://github.com/Saad-TheAnalyst/Ecommerce-Sales-Customer-Analysis) |
+| HR Employee Attrition Analysis | Python, Excel, Power BI | ⭐ 89/100 | [View](https://github.com/Saad-TheAnalyst/HR-Employee-Attrition-Analysis) |
+| Sales Performance Analysis | Python, Pandas, Power BI | ⭐ 88/100 | [View](https://github.com/Saad-TheAnalyst/Sales-Analysis-Project) |
+| Netflix Movies & TV Shows EDA | Python, Pandas, Power BI | ⭐ 84/100 | [View](https://github.com/Saad-TheAnalyst/Netflix-Movies-TV-Shows-EDA) |
+| COVID-19 Global Analysis | Python, Pandas, Power BI | ⭐ 83/100 | [View](https://github.com/Saad-TheAnalyst/COVID19-Data-Analysis) |
+| Hospital & Healthcare BI Dashboard | Python, Pandas, Power BI | ⭐ 82/100 | [View](https://github.com/Saad-TheAnalyst/Hospital-Healthcare-BI-Dashboard) |
 
 ## 📊 GitHub Stats
 
