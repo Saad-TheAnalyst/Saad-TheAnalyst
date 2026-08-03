@@ -1,6 +1,6 @@
 # Hi, I'm Saad Suleiman 👋
 
-### Data Analyst | Frontend Designer | University of Ilorin Graduate
+### Data Analyst | AI Evaluator | University of Ilorin Graduate
 
 I am a self-taught Data Analyst passionate about turning 
 raw data into meaningful insights. I specialize in Python, 
